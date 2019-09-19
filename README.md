@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
@@ -15,15 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### 当前项目用到的技术点
+```javascript
+vue-router + vuex +axios + 路由懒加载 + 公共组件的封装（JS组件UI组件）+ webpack + mint-ui + sass + mockjs + swiper + better-scroll + localStorage/sessionStorage+ vue-lazyload(图片懒加载)
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
